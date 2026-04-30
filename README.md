@@ -8,11 +8,11 @@
 - [MEIM-SB](https://github.com/MartinMcGraft/MEIM-SB)
 
 ## 1st Year - 2nd Semester
-- [MEIM-AMI](https://github.com/MartinMcGraft/MEIM-CF)
-- [MEIM-AP](https://github.com/MartinMcGraft/MEIM-MCG)
-- [MEIM-IAEOD](https://github.com/MartinMcGraft/MEIM-MoP)
-- [MEIM-SGAIM](https://github.com/MartinMcGraft/MEIM-PDS)
-- [MEIM-VARM](https://github.com/MartinMcGraft/MEIM-RPS)
+- [MEIM-AMI](https://github.com/MartinMcGraft/MEIM-AMI)
+- [MEIM-AP](https://github.com/MartinMcGraft/MEIM-AP)
+- [MEIM-IAEOD](https://github.com/MartinMcGraft/MEIM-IAEOD)
+- [MEIM-SGAIM](https://github.com/MartinMcGraft/MEIM-SGAIM)
+- [MEIM-VARM](https://github.com/MartinMcGraft/MEIM-VARM)
 
 ## 2nd Year - 1st Semester
 
